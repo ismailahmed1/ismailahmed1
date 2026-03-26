@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hey, I'm Ahmed :) a 4th-year Computer Systems Engineering student at Carleton University and incoming **Software Engineer Intern @ Tesla** on the Service Tooling team (Summer '26).
+Hey, I'm Ahmed :) a 4th-year Computer Systems Engineering student at Carleton University and incoming Software Engineer Intern @ Tesla on the Service Tooling team (Summer '26).
 
 I build scalable backend systems, AI/ML pipelines, and full-stack tools that solve real problems. Outside of code, I create CS/SWE content for **70K+ followers** across Instagram and TikTok; breaking down DSA, system design, and career advice.
 
