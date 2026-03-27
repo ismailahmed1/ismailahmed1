@@ -3,14 +3,11 @@
 
 **Computer Engineering Student · Building things that scale**
 
-![Tesla](https://img.shields.io/badge/Tesla_SWE_Intern_'26-CC0000?style=flat&logo=tesla&logoColor=white)
-![Location](https://img.shields.io/badge/San_Francisco_Bay_Area-CA-blue?style=flat)
-
 ---
 
 ## Who am I?
 
-Hey, I'm Ahmed :) a 4th-year Computer Systems Engineering student at Carleton University and incoming Software Engineer Intern @ Tesla on the Service Tooling team (Summer '26).
+Hey, I'm Ahmed :) a 4th-year Computer Systems Engineering student at Carleton University and Software Engineer Intern @ TrendAI on the AI Security team.
 
 I build scalable backend systems, AI/ML pipelines, and full-stack tools that solve real problems. Outside of code, I create CS/SWE content for 70K+ followers across Instagram and TikTok; breaking down DSA, system design, and career advice.
 
@@ -20,7 +17,6 @@ I build scalable backend systems, AI/ML pipelines, and full-stack tools that sol
 
 | Company | Role | Period |
 |---|---|---|
-| **Tesla** *(incoming)* | Software Engineer Intern | Summer 2026 |
 | **TrendAI** | AI/ML Software Engineer Intern | Jan 2026 – Present |
 | **Ross Video** | Software Engineer Intern | Sep – Dec 2025 |
 | **Nokia** | Software Engineer Intern | Jan – Aug 2025 |
