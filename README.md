@@ -66,4 +66,4 @@ I like building things that actually ship: backends, ML pipelines, full-stack ap
 - 🐙 [github.com/ismailahmed1](https://github.com/ismailahmed1)
 - 📸 [@elcanadawy1](https://www.instagram.com/elcanadawy1) — Instagram & TikTok
 - ✉️ ahmedismail.tech@gmail.com
-- 📍 Ottawa, Ontario, Canada
+- 📍 San Francisco Bay Area
