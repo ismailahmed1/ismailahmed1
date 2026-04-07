@@ -51,10 +51,15 @@ I like building things that actually ship: backends, ML pipelines, full-stack ap
 ## Tech Stack
 
 **Languages:** Python · Java · C/C++ · Rust · JavaScript · TypeScript · Go · Bash · SQL
+
 **Cloud / DevOps:** AWS · Docker · Serverless · Terraform · OpenTofu · GitHub Actions · Linux
+
 **AI / ML:** PyTorch · TensorFlow · Keras · OpenVINO · NumPy · SageMaker · Databricks
+
 **Frameworks:** Flask · React · Express · Spring Boot · Node.js · Selenium · TestNG · k6 · PyTest
+
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis
+
 **Developer Tools:** Git · Grafana · Postman · Maven
 
 ---
