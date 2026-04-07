@@ -29,9 +29,9 @@ I like building things that actually ship: backends, ML pipelines, full-stack ap
 
 ## Cool Projects
 
-### ShaghalnyShokran · *AI Resume Review & ATS Checker*
-> AI resume analyzer serving 1000+ users with real-time streaming, ATS scoring, and fine-tuned prompts across flagship models.
-> 🌐 [shaghalnyshokran.com](https://shaghalnyshokran.com)
+### ShaghalnyShokran · *AI Resume Review & ATS Checker (2500+ users)*
+> AI resume analyzer serving 2500+ users with real-time streaming, ATS scoring, and fine-tuned prompts across flagship models.
+>  [shaghalnyshokran.com](https://shaghalnyshokran.com)
 > `Python` `Flask` `PostgreSQL` `Redis` `Google OAuth` `Anthropic/OpenAI/Gemini APIs` `Gunicorn + Gevent`
 
 ### MediClarify · *Hackathon Winner — HackTheFuture Winter 2026*
