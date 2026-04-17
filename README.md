@@ -2,7 +2,7 @@
 
 **Computer Engineering Student · Building things that scale**
 
-![Tesla](https://img.shields.io/badge/Tesla_SWE_Intern_'26-CC0000?style=flat&logo=tesla&logoColor=white)
+![Tesla](https://img.shields.io/badge/Incoming_Tesla_SWE_Intern_'26-CC0000?style=flat&logo=tesla&logoColor=white)
 ![Location](https://img.shields.io/badge/San_Francisco_Bay_Area-CA-blue?style=flat)
 ---
 
