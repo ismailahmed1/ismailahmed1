@@ -1,20 +1,20 @@
 # Ahmed Ismail
 **Computer Engineering Student at Carleton University**
 
-![Tesla](https://img.shields.io/badge/Incoming_Tesla_SWE_Intern_'26-CC0000?style=flat&logo=tesla&logoColor=white)
+![Tesla](https://img.shields.io/badge/Tesla_MLE_Intern_Summer'26-CC0000?style=flat&logo=tesla&logoColor=white)
 ![Location](https://img.shields.io/badge/SF_Bay_Area-CA-blue?style=flat)
 
 ---
 
 ## Experience
-- **Tesla** — SWE Intern *(Incoming Summer 2026)*
-- **TrendAI** — AI/ML SWE Intern *(Jan 2026 – Present)*
+- **Tesla** — MLE Intern *(May – Present)*
+- **TrendAI** — MLOps SWE Intern *(Jan 2026 – Present)*
 - **Ross Video** — SWE Intern *(Sep – Dec 2025)*
 - **Nokia** — SWE Intern *(Jan – Aug 2025)*
 - **Carleton University** — TA *(Sep – Dec 2024)*
 
 ## Projects
-**[ShaghalnyShokran](https://shaghalnyshokran.com)** — AI resume reviewer & ATS checker, 3,300+ users, streaming + multi-model.
+**[ShaghalnyShokran](https://shaghalnyshokran.com)** — AI resume reviewer & ATS checker, 5000+ users, streaming + multi-model.
 `Python · Flask · PostgreSQL · Redis · Google OAuth · Anthropic/OpenAI/Gemini APIs · Gunicorn + Gevent`
 
 **[MediClarify](https://github.com/ismailahmed1/MediClarify)** —  HackTheFuture W'26. Medical PDFs → plain-language guides via OCR + GPT-4o in <3s. [Demo](https://youtu.be/b9zeLKd0p5I)
