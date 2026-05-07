@@ -7,7 +7,7 @@
 ---
 
 ## Experience
-- **Tesla** — MLE Intern *(May – Present)*
+- **Tesla** — MLE Intern *(May 2026– Present)*
 - **TrendAI** — MLOps SWE Intern *(Jan 2026 – Present)*
 - **Ross Video** — SWE Intern *(Sep – Dec 2025)*
 - **Nokia** — SWE Intern *(Jan – Aug 2025)*
