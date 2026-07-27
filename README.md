@@ -14,7 +14,7 @@
 - **Carleton University** — TA *(Sep – Dec 2024)*
 
 ## Projects
-**[ShaghalnyShokran](https://shaghalnyshokran.com)** — AI resume reviewer & ATS checker, 5000+ users, streaming + multi-model.
+**[ShaghalnyShokran](https://shaghalnyshokran.com)** — AI resume reviewer & ATS checker, 6500+ users, streaming + multi-model.
 `Python · Flask · PostgreSQL · Redis · Google OAuth · Anthropic/OpenAI/Gemini APIs · Gunicorn + Gevent`
 
 **[MediClarify](https://github.com/ismailahmed1/MediClarify)** —  HackTheFuture W'26. Medical PDFs → plain-language guides via OCR + GPT-4o in <3s. [Demo](https://youtu.be/b9zeLKd0p5I)
