@@ -15,7 +15,7 @@
 - **Nokia** — SWE Intern, Network infrastructure *(Jan – Aug 2025)*
 
 ## Projects
-**[ShaghalnyShokran](https://shaghalnyshokran.com)** — AI resume reviewer & ATS checker, 6500+ users, real-time streaming across flagship models.
+**[ShaghalnyShokran](https://shaghalnyshokran.com)** — AI resume reviewer & ATS checker, 7000+ users, real-time streaming across flagship models.
 `Python · Flask · PostgreSQL · Redis · Google OAuth · Anthropic/OpenAI/Gemini APIs · Gunicorn + Gevent · Railway`
 
 **[Meeting Voice Agent](https://github.com/prmsregmi/carleton)** — YC Voice Agents Hackathon, Summer '26. Joins Google Meet, transcribes live, talks back to participants, and auto-extracts tasks into an Obsidian vault. [Demo](https://www.youtube.com/watch?v=XdPGX2aY5UA)
